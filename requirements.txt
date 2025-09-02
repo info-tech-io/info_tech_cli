@@ -1,0 +1,25 @@
+# InfoTech CLI Dependencies
+
+# Core CLI framework
+click>=8.0.0
+
+# Environment variables management
+python-dotenv>=0.19.0
+
+# Template engine for module generation
+jinja2>=3.0.0
+
+# HTTP requests for GitHub API
+requests>=2.28.0
+
+# YAML processing for configuration files
+pyyaml>=6.0
+
+# File system operations
+pathlib2>=2.3.0
+
+# Development dependencies (install with: pip install -r requirements-dev.txt)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
