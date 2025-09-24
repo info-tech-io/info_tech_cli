@@ -2,10 +2,11 @@
   "name": "info-tech-cli-docs",
   "version": "1.0.0",
   "type": "documentation",
-  "build": {
+  "hugo_config": {
     "template": "documentation",
     "theme": "compose",
-    "components": ["compose-theme"]
+    "components": [],
+    "hugo_version": "0.148.0"
   },
   "site": {
     "title": "Info-Tech CLI Documentation",
