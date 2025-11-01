@@ -285,7 +285,8 @@ Reference assets in your content:
 ![Python Logo](../static/images/python-logo.png)
 
 Watch this introduction video:
-{{< video src="../static/videos/intro-python.mp4" >}}
+
+[📹 Introduction to InfoTech CLI](../static/videos/intro-python.mp4)
 ```
 
 ## Validation and Testing

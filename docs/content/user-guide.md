@@ -440,14 +440,14 @@ static/
 #### Video Integration
 
 ```markdown
-# Embed videos in content
-{{< video src="../static/videos/intro.mp4" poster="../static/images/video-poster.jpg" >}}
+# Embed videos in content (as markdown link)
+[📹 Introduction Video](../static/videos/intro.mp4)
 
-# YouTube integration
-{{< youtube id="dQw4w9WgXcQ" title="Tutorial Video" >}}
+# YouTube integration example
+{{</* youtube id="dQw4w9WgXcQ" title="Tutorial Video" */>}}
 
-# Video with transcript
-{{< video src="../static/videos/lesson1.mp4" transcript="../static/transcripts/lesson1.vtt" >}}
+# Video with transcript example
+{{</* video src="../static/videos/lesson1.mp4" transcript="../static/transcripts/lesson1.vtt" */>}}
 ```
 
 ## Workflow Optimization
