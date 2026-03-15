@@ -11,14 +11,14 @@
   "site": {
     "title": "Info-Tech CLI Documentation",
     "description": "Command-line interface for InfoTech.io educational platform - create, manage and deploy learning modules",
-    "baseURL": "https://cli.info-tech.io",
+    "baseURL": "https://info-tech-io.github.io",
     "language": "en",
     "author": "InfoTech.io Team",
     "product_name": "Info-Tech CLI"
   },
   "content": {
     "source": "./content",
-    "destination": "cli"
+    "destination": "docs/info-tech-cli"
   },
   "build_settings": {
     "hugo_version": "0.148.0",
